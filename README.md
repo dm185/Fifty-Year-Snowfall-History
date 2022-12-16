@@ -14,7 +14,7 @@ I wanted to do a comparison of the two different locations to see if the Mount B
 
 ## Summary of Findings
 ---------------------------------------------------------------------------------------------------------------------------------------------
-Annual snowfall trends for both locations have had fluctuations of upward and downward trends. The overall general trend is a decrease from the snowfall totals seen in the early to middle 1970s to the present year. With these upward and downward trends, upward trends have appeared to result in subsequent peaks indicating lesser peak annual snowfall amounts. When considering the annual snowfall trends from around 1979 to 1980, the general trend seems to be a slight increase to present day. Both locations have similar annual snowfall trend patterns. 
+Annual snowfall trends for both locations indicate fluctuations of upward and downward trends. The overall general trend is a decrease from the snowfall totals seen in the early to middle 1970s to the present year. With these upward and downward trends, upward trends have appeared to result in subsequent peaks indicating lesser peak annual snowfall amounts. When considering the annual snowfall trends from around 1979 to 1980, the general trend seems to be a slight increase to present day. Both locations have similar annual snowfall trend patterns. 
 
 ## Resources
 -------------------------------------------------------------------------------------------------------------------------------------------
